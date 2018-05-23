@@ -20,6 +20,8 @@ Design Reviews
 
 Climbing the Learning Curve
 
+Open Source Software
+
 Preparing Student for the Real World
 
 
