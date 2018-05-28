@@ -21,9 +21,12 @@ Topics that are intended to be covered at this point are
 * Biggest Surprises
 * Looking through Student Eyes
 * Programming is Learned by Programming
+* The Power of Practice
 * Teaching Tools
 * Grading Process
 * Design Reviews
 * Climbing the Learning Curve
 * Preparing Students for the Real World
+* Incremental Development
+* Version Control
 
