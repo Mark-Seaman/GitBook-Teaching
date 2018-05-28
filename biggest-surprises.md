@@ -2,7 +2,7 @@
 description: Expected Discoveries in Teaching
 ---
 
-# Biggest Suprises
+# Biggest Surprises
 
 Teaching is fundamentally different that doing design work. Knowing about technology and how to apply it is necessary but not sufficient to good teaching. Here are some of the greatest unexpected learnings from my first year of teaching.
 

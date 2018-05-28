@@ -3,5 +3,5 @@
 * [Teaching Technology](README.md)
 * [Table of Contents](table-of-contents.md)
 * [Introduction](introduction.md)
-* [Biggest Suprises](biggest-surprises.md)
+* [Biggest Surprises](biggest-surprises.md)
 
