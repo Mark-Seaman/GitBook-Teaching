@@ -2,4 +2,5 @@
 
 * [Teaching Technology](README.md)
 * [Table of Contents](table-of-contents.md)
-* [Introduction](Index.md)
+* [Introduction](introduction.md)
+

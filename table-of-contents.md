@@ -6,6 +6,8 @@ by Mark Seaman
 
 ### Table of Contents
 
+Introduction
+
 Biggest Surprises
 
 Looking through Student Eyes

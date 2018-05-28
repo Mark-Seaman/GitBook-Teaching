@@ -1,4 +1,5 @@
-# Teaching Technology
+# Introduction
+
 by Mark Seaman
 
 ## Table of Contents
