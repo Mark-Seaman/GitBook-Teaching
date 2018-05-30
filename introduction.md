@@ -1,7 +1,3 @@
----
-description: The uniqueness of teaching technology
----
-
 # Introduction
 
 I recently started teaching technology in college.  After spending a many years creating new software systems the technology ideas were thoroughly familiar and second nature. But this knowledge does not instantly convert into the ability to teach others.
