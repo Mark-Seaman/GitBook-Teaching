@@ -6,5 +6,5 @@
 * [Table of Contents](table-of-contents.md)
 * [Introduction](introduction.md)
 * [Biggest Surprises](biggest-surprises.md)
-* Apps
+* [Apps](apps.md)
 
