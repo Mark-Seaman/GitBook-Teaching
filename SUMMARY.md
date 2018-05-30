@@ -7,4 +7,4 @@
 * [Introduction](introduction.md)
 * [Biggest Surprises](biggest-surprises.md)
 * [Apps](apps.md)
-
+* [Learn by Doing](learn-by-doing.md)
