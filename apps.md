@@ -4,16 +4,10 @@ description: Applications to build for PHP Apps class.
 
 # Apps
 
-\# BACS 350 Apps - Application Ideas
-
-
-
 1. PHP Server
 2. Github
-3. 
-1. Console
-
-1. Execute Commands - server includes, pair programming
+3. Console
+4. Execute Commands - server includes, pair programming
 
 1. List Files - table formatter, links
 
