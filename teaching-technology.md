@@ -1,6 +1,6 @@
-# Introduction
+# Teaching Technology
 
-The process of teaching technology is fundamentally different than teaching any other subject matter.  There are a number of factors that contribute to this.
+The process of teaching technology is fundamentally different than teaching any other subject matter. There are a number of factors that contribute to this.
 
 * Technology is rapidly and constantly changing.
 * As applications have become more friendly users have not been required to understand how the technology actually works.
