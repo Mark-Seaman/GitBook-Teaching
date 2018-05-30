@@ -9,9 +9,8 @@ description: Applications to build for PHP Apps class.
 
 
 1. PHP Server
-
-1. Github
-
+2. Github
+3. 
 1. Console
 
 1. Execute Commands - server includes, pair programming
