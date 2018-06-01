@@ -29,4 +29,5 @@ Topics that are intended to be covered at this point are
 * Version Control
 * Cookbook or Tutorial
 * Bite-size Learning
+* Open Source Software
 
