@@ -8,5 +8,5 @@ I assumed that kids growing up with cell phones would naturally have an intuitiv
 
 Twenty years ago everyone that used computers needed to understand these concept in order to be successful.  Today students are very familiar with how to send messages using applications on their phones but are unaware of what is going on underneath.
 
-
+To be successful teaching students we must go back to shore up foundations that might be shaky. Teacher need to reinforce concepts like the Files and Directory, Input/Process/Output,  data flow and control flow with each class lesson.  Consistent repetition is required to get students comfortable with these unfamiliar concepts.
 

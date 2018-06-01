@@ -2,7 +2,7 @@
 description: Applications to build for PHP Apps class.
 ---
 
-# Apps
+# Building Apps
 
 1. PHP Server
 2. Github

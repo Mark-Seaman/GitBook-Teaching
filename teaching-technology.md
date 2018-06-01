@@ -1,4 +1,4 @@
-# Dynamics of Teaching Technology
+# Teaching Technology
 
 The process of teaching technology is fundamentally different than teaching any other subject matter. There are a number of factors that contribute to this.
 
