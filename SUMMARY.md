@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* Seaman's Guides
+* [Seaman's Guides](seamans-guides.md)
 * [Introduction](introduction.md)
 * [Teaching Technology](teaching-technology.md)
 * [Biggest Surprises](biggest-surprises.md)
