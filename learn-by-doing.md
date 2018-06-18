@@ -10,3 +10,5 @@ Every programming class should be built around the idea of teaching skills and t
 
 Every class should culminate with the student creating something that they were unable do at the beginning of the class session. This requires students to confront their current limitations of knowledge and move the boundary.
 
+By taking this approach we are able to communicate about 50 specific technology skills in the course of a semester-long class.  Mastering these 50 skills equips each student to embrace a job that requires this knowledge. It is struggle to identify and overcome challenges that truly cements the learning.  The true test of learning is therefore measured by the students ability the create something correctly, efficiently, and quickly.
+
