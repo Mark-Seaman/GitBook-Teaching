@@ -1,4 +1,4 @@
-# Introduction
+# Topics on Teaching Technology
 
 I recently started teaching technology in college. Many years spent creating new software systems made me quite familiar with the issues of technology. But this knowledge does not instantly convert into the ability to teach others.
 
@@ -30,4 +30,5 @@ Topics that are intended to be covered at this point are
 * Cookbook or Tutorial
 * Bite-size Learning
 * Open Source Software
+
 

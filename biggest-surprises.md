@@ -16,7 +16,7 @@ Programming is an activity that requires hands-on experience to master. Listenin
 
 When I started teaching I spent a lot of time lecturing and the exercises were an afterthought.  Soon I discovered that very little of what I taught was being retained.  I then began building my lessons around the exercises.  The lectures were devoted to training the student on how to overcome the barriers that they faced and solve the problems that were required to get to a valid solution.
 
-This simple change produced a dramatic change in the students’ learning. This lesson could be applied in every class that involves programming.  I intend to use this simple but powerful technique to optimize each of the classes that I teach moving forward.
+This simple change produced a dramatic change in the students' learning. This lesson could be applied in every class that involves programming.  I intend to use this simple but powerful technique to optimize each of the classes that I teach moving forward.
 
 ### Skills and Problem-solving
 
