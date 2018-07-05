@@ -6,15 +6,24 @@ description: Applications to build for PHP Apps class.
 
 A great way to learn a new technology stack is to build applications.
 When teaching a full semester college class a series of applications could be
-built througout the semester.  Imagine having a new set of features
+built throughout the semester.  Imagine having a new set of features
 that are completed for each class session.
 
 Here is a potential list of application steps.
 
+Core
+
+Views
+
+Data
+
+Apps
+
+
 1. PHP Server
 2. Github
-3. Console
-4. Execute Commands - server includes, pair programming
+3. Development Workflow - Test, Edit, Deploy
+4. View Template - server includes, pair programming
 5. List Files - table formatter, links
 6. Display Files - details content, links
 7. Automated Test - design reviews
